@@ -8,3 +8,4 @@ Ejample
 Ejemplo
 Example
 omg
+Im still uploading other things but to a non main branch, it´s sad
